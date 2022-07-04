@@ -1,0 +1,48 @@
+---
+title: "HTML5_CSS3_learning"
+author: "Mael Elegoet"
+date: '2022-07-04'
+output: html_document
+---
+
+
+# My notes about learning Html and Css
+
+## Apprendre les balises
+
+* Les balises sont soit orphelines soit en paire
+La plupart du temps une balise orpheline sert à insérer un élément à un endroit précis
+
+* la première ligne s'appelle le Doctype. Elle est indispensable car elle indique qu'il s'agit d'un document .html
+
+```{premiere ligne}
+<!DOCTYPE html>
+```
+* La structure de base d'une page Html
+
+```{structure de base}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Ma deuxieme page web modèle</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+```
+
+*Donner un titre à sa page
+
+```{titre de la page}
+
+<title = My first web page>
+Cest ce libellé qui viendra s afficher en haut de l onglet que l on ouvre
+
+<--! ceci est un commentaire>
+
+
+```
+
+
